@@ -17,8 +17,8 @@ main{
     background-color: white;
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
-    width: 90%;
-    max-width: 20em;
+    width: 85%;
+    max-width: 18em;
     padding: 1rem;
     border-radius: 1rem;
   
@@ -27,7 +27,7 @@ main{
 }
 
 main .qr-code{
-    width: 20em;
+    width: 100%;
     border-radius: 0.7rem;
    
 
