@@ -19,27 +19,29 @@ main{
     font-weight: 400;
     width: 85%;
     max-width: 18em;
-    padding: 1rem;
+    padding: 1.2rem;
     border-radius: 1rem;
   
-  
- 
 }
 
 main .qr-code{
     width: 100%;
     border-radius: 0.7rem;
-   
+}
 
+h1{
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-align: center;
+}
+section{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
 }
 p{
-   line-height: 1.3rem;
-}
-
-h2,p{
     margin-top: 1rem;
-    text-align: center;
-
+    line-height: 1.3;
 }
  .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
